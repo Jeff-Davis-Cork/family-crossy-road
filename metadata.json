@@ -1,6 +1,0 @@
-{
-  "name": "Family Crossy Road",
-  "description": "A private, customizable Crossy Road-style arcade game where you can upload photos of your family members to play as them. Completely local and private.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
